@@ -2,9 +2,7 @@ package com.vrs.smsapp;
 
 /***
  *    Application Name : MessageBox 
- *    Author : Vimal Rughani
- *    Website : http://pulse7.net
- *    For more details visit http://pulse7.net/android/read-sms-message-inbox-sent-draft-android/
+ *    Author : Landry Kateu
  */
 import android.app.Activity;
 import android.content.ContentResolver;
