@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/landryk/StudioProjects/SMSApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="12aafe9ed40447dbc8f2334cc4a6656efb64ef14">
+        <dex dex="/Users/landryk/StudioProjects/SMSApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f45a59af9f4f0e77ac0a792a25359a6be25ef314.jar" />
+    </item>
+    <item
+        jar="/Users/landryk/StudioProjects/SMSApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a6b922f0ffee123eed27359ac6d0031fcfc62abe">
+        <dex dex="/Users/landryk/StudioProjects/SMSApp/app/build/intermediates/pre-dexed/debug/instant-run_b41d96d9df1903aee0a3bf1b8a1c5a950a4699c7.jar" />
+    </item>
+
+</items>
